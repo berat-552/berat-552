@@ -1,7 +1,5 @@
 # Hello, I'm Berat! 👋
 
-### I'm an aspiring Software Developer.
-
 ### About Me
 
 ---
