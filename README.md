@@ -4,7 +4,7 @@
 
 ---
 
-- 🌱 I'm an aspiring Software Developer passionate about building impactful and user-centric applications.
+- 🌱 I'm a Software Developer passionate about building impactful and user-centric applications.
 - 💡 I'm always eager to learn new technologies and explore innovative solutions.
 - 💬 Feel free to contact me [here](mailto:berat.d7599@gmail.com).
 - 🌐 You can also visit my [website](https://berat-portfolio.vercel.app/) to learn more about me and my work.
