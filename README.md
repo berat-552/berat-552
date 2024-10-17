@@ -6,7 +6,6 @@
 
 - 🌱 I'm passionate about building scalable applications that provide solutions to problems.
 - 💡 I'm always eager to learn new technologies and explore innovative solutions.
-- 💬 Feel free to contact me [here](mailto:berat.d7599@gmail.com).
 - 🌐 You can also visit my [website](https://berat-portfolio.vercel.app/) to learn more about me and my work.
 
 ### Languages and Tools
