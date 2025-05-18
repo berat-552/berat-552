@@ -6,7 +6,7 @@
 
 - 🌱 Focused on building well-tested and maintainable solutions.
 - 💡 Always learning new things to tackle the problem at hand. 
-- 🌐 You can also visit my [website](https://berat-portfolio.vercel.app/) to learn more about me and my work.
+- 🌐 You can also visit my [website](https://beratd-portfolio.vercel.app/) to learn more about me and my work.
 
 ### Languages and Tools
 
